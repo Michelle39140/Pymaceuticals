@@ -12,13 +12,13 @@ Pymaceuticals is a burgeoning pharmaceutical company. They've since begun screen
 
 
 ### Results include:
-* scatter plot that shows how the tumor volume changes over time for each treatment.
+* How the tumor volume changes over time for each treatment
 ![Result](Tumor_Response_to_Treatment.png)
-* scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
+* How the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment
 ![Result](Metastatic_Spread_During_Treatment.png)
-* scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+* The number of mice still alive through the course of treatment (Survival Rate)
 ![Result](Survival_During_Treatment.png)
-* bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+* The change of total % tumor volume across the full 45 days for each treatment
 ![Result](Tumor_Change_Over_45-Day_Treatment.png)
 
 

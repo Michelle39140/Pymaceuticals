@@ -11,7 +11,7 @@ Pymaceuticals is a burgeoning pharmaceutical company. They've since begun screen
 **Language**: Python; **Packages used**: Matplotlib, pandas, numpy 
 
 
-### Majoir Results:
+### Major Results:
 * How the tumor volume changes over time for each treatment
 ![Result](Tumor_Response_to_Treatment.png)
 * How the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment

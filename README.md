@@ -17,7 +17,7 @@ Pymaceuticals is a burgeoning pharmaceutical company. They've since begun screen
 * scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
 * bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 
-![Sample Result](../Metastatic Spread During Treatment.png)
+![Optional Text](../master/myFolder/image.png)
 
 
 
